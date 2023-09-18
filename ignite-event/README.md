@@ -1,34 +1,11 @@
-<p align="center">
+<div align="center">
     <img src="./src/assets/logo.png" alt="Event Platform" />
-</p>
+    <p></p>
+</div>
 
 <h3 align="center">
     Plataforma de inscrição e visualização de aulas online
 </h3>
-
-<p align="center">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/KassiaMabily/Event-Platform?color=%2304D361"/>
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/KassiaMabily/Event-Platform" />
-    <a href="https://github.com/KassiaMabily/Event-Platform/commits/main">
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KassiaMabily/Event-Platform">
-    </a>
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
-
-<h4 align="center">
-	🚧 Development 🚧
-
-    
-</h4>
-
-<p align="center">
-    <a href="#about">About</a> •
-    <a href="#features">Features</a> •
-    <a href="#how-it-works">How it works</a> • 
-    <a href="#tech-stack">Tech Stack</a> • 
-    <a href="#author">Authors</a> • 
-    <a href="#user-content-license">License</a>
-</p>
 
 ## 💻 Overview
 
@@ -38,7 +15,6 @@
 
 ---
 ## ✅ Features
-
 
 - [ ] Authentication for subscriber users
 - [ ] Responsiveness
@@ -102,7 +78,7 @@ The following tools were used in the construction of the project:
             </a>
             <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kassia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kassia-fraga/)](https://www.linkedin.com/in/kassia-fraga/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Kassia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kassia-fraga/)](https://www.linkedin.com/in/kassia-fraga/)
 [<img src = "https://img.shields.io/badge/@dev.naotaosedentaria-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/dev.naotaosedentaria/)
 [![Gmail Badge](https://img.shields.io/badge/-kassiafraga7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kassiafraga7@gmail.com)](mailto:kassiafraga7@gmail.com)
         </p>
