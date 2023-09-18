@@ -1,31 +1,39 @@
 <div align="center">
     <img src="./src/assets/logo.png" alt="Event Platform" />
-    <p></p>
+    <p>Online class registration and viewing platform.</p>
 </div>
 
-<h3 align="center">
-    Plataforma de inscrição e visualização de aulas online
-</h3>
+# 💻 Overview
 
-## 💻 Overview
+## 👀 About
+Discover a seamless experience in online education with our platform. Register for classes effortlessly and enjoy convenient access to engaging content from anywhere.
 
-### [Demo](https://event-platform-fawn.vercel.app/)
+<div align="center">
+  <img src="./src/assets/Capa.png" alt="Event Platform" />
+</div>
 
-<img src="./src/assets/Capa.png" alt="Event Platform" />
+## 🚀 Technologies
 
----
+![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=Vite&logoColor=00599C)
+![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react&logoColor=007396)
+![Tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL)
+![ApolloGraphQL](https://img.shields.io/badge/-ApolloGraphQL-333333?style=flat&logo=apollographql)
+
+And others:
+-   **[GraphCMS](https://graphcms.com/)**
+-   **[GraphQL Code Generator](https://www.graphql-code-generator.com/)**
+
 ## ✅ Features
 
 - [ ] Authentication for subscriber users
 - [ ] Responsiveness
 
----
 
-## ⚙️ How it works
+# 💻 Getting started
 
-...
-
-### 👉 Pre-requisites
+## Requirements
 
 Before you begin, you will need to have the following tools installed on your machine:
 [Git](https://git-scm.com), [npm](https://www.npmjs.com/)
@@ -33,7 +41,7 @@ In addition, it is good to have an editor to work with the code like [VSCode](ht
 
 Besides that, clone the GraphCMS project [here](https://app.graphcms.com/clone/0b394a8ea4de4556b22aaff741187e9b?name=Ignite%20Lab%20-%20Kassia%20Fraga) and get the Content API URL and generarate a permanent auth token if it doesn't exist.
 
-### 👉 Run project
+## 👉 Run project
 ```bash
 
 # Clone this repository
@@ -53,41 +61,9 @@ $ npm run codegen
 
 ```
 
-## 🚀 Tech Stack
+# 📝 License
 
-The following tools were used in the construction of the project:
-
--   **[Vite](https://vitejs.dev/)**
--   **[ReactJS](https://pt-br.reactjs.org/)**
--   **[Apollo GraphQL](https://www.apollographql.com/)**
--   **[GraphCMS](https://graphcms.com/)**
--   **[GraphQL Code Generator](https://www.graphql-code-generator.com/)**
--   **[Typescript](https://www.typescriptlang.org/)**
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Authors
-<table>
-    <tr>
-    <td align="center">
-        <p>
-            <a href="#">
-                <img style="border-radius: 50%" src="https://github.com/KassiaMabily.png" width="100px;" alt="Loyslene Montanari"/>
-                <br />
-                <sub><b>Kassia Fraga</b></sub></a><a href="#" title="Kassia Fraga">
-            </a>
-            <br/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Kassia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kassia-fraga/)](https://www.linkedin.com/in/kassia-fraga/)
-[<img src = "https://img.shields.io/badge/@dev.naotaosedentaria-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/dev.naotaosedentaria/)
-[![Gmail Badge](https://img.shields.io/badge/-kassiafraga7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kassiafraga7@gmail.com)](mailto:kassiafraga7@gmail.com)
-        </p>
-    </td>
-    </tr>
-</table>
-
----
-
-## 📝 Licença
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
+⌨️ com ❤️ por [Kassia Fraga](https://github.com/KassiaMabily) 😊

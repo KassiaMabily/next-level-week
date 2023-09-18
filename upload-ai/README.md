@@ -15,7 +15,7 @@ Upload.ai is a comprehensive platform that uses artificial intelligence (AI) to 
 ## 🚀 Technologies
 
 ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=Vite&logoColor=00599C)
-![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=ReactJS&logoColor=007396)
+![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react&logoColor=007396)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=NodeJS)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=HTML5)
 ![Tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss)
@@ -86,8 +86,5 @@ $ pnpm run dev
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-<hr>
-<div align="center">
-  <sub>Copyright © 2021-present, KassiaFraga.</sub>
-</div>
-<hr>
+---
+⌨️ com ❤️ por [Kassia Fraga](https://github.com/KassiaMabily) 😊
